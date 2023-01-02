@@ -1,3 +1,10 @@
+## App Demo
+https://netflixclone-hyt.netlify.app/
+
+test username: kim@gmail.com
+test password: kim1234
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
