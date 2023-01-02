@@ -1,7 +1,7 @@
 ## App Demo
 https://netflixclone-hyt.netlify.app/
 
-test username: kim@gmail.com
+test username: kim@gmail.com <br />
 test password: kim1234
 
 
